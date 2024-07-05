@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="reg_username" type="id" />
+    <item name="green_card" type="id" />
+    <item name="your_invites" type="id" />
+    <item name="invite_mail" type="id" />
+    <item name="invite_recycler" type="id" />
+    <item name="send_invite" type="id" />
+    <item name="imageView" type="id" />
+    <item name="captureButton" type="id" />
+</resources>
